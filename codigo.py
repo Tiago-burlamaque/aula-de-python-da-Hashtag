@@ -10,12 +10,7 @@ pyautogui.write("Google Chrome")
 # Entrar no Google Chrome
 pyautogui.press("enter")
 
-pyautogui.hotkey("win", "r")
-pyautogui.write("cmd")
-pyautogui.press("enter")
-pyautogui.write("git add .")
-pyautogui.write('git commit -m "Automatizando projeto"')
-pyautogui.write("git push")
+
 
 
 
